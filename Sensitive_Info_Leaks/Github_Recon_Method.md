@@ -12,6 +12,7 @@ Using Github we can find sensitive infos.
 * https://github.com/hisxo/gitGraber
 * https://github.com/tillson/git-hound
 * https://securitytrails.com/blog/github-dorks
+* https://github.com/obheda12/GitDorker
 
 ### Author:
 * [@0xCCFFF](https://twitter.com/0xCCFFF) (MadMaxx)
